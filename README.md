@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/ruslan-melanin-803589278/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://drive.google.com/file/d/1nsXLkRhAvh0xLZRjVEIhlsZpRvBa7rza/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1rWd8FR2wZ4ND43KUWdxbKbin5v05eFvl/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/CV-PDF-ff4d6d" />
   </a>
   <a href="https://t.me/animepusya" target="_blank">
