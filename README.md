@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="mailto:rus.melanin@outlook.com">
-    <img src="https://img.shields.io/badge/Email-yourname@email.com-6b7280?logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-rus.melanin@outlook.com-6b7280?logo=gmail&logoColor=white" />
   </a>
 </p>
 
