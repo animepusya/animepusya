@@ -1,6 +1,6 @@
 <!-- ====== HEADER ====== -->
 <p align="center">
-  <img src="./itasha.png?v=latestv2" alt="banner" width="100%"/>
+  <img src="./itasha.png?v=latest" width="100%" />
 </p>
 
 <h1 align="center">iOS Developer (Swift) (｡•̀ᴗ-)✧</h1>
