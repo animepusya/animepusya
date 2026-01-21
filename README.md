@@ -6,9 +6,15 @@
 <h1 align="center"> Ruslan — iOS Developer (Swift) (｡•̀ᴗ-)✧</h1>
 
 <p align="center">
-  <a href="[LINKEDIN](https://www.linkedin.com/in/ruslan-melanin-803589278/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
-  <a href="[CV - Resume](https://drive.google.com/file/d/1nsXLkRhAvh0xLZRjVEIhlsZpRvBa7rza/view?usp=sharing)"><img src="https://img.shields.io/badge/CV-PDF-ff4d6d" /></a>
-  <a href="[@animepusya](https://t.me/animepusya)"><img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ruslan-melanin-803589278/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://drive.google.com/file/d/1nsXLkRhAvh0xLZRjVEIhlsZpRvBa7rza/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/CV-PDF-ff4d6d" />
+  </a>
+  <a href="https://t.me/animepusya" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -40,8 +46,8 @@
 
 | Project | What it is | Tech | Link |
 |---|---|---|---|
-| **Danetka. Think Again.** | Logic riddle card game | SwiftUI, JSON, MVVM | [REPO](https://github.com/animepusya/Yes-No-Game) |
-| **MovieQuiz** | Quiz app (course project) | MVP, API | [REPO](https://github.com/animepusya/MovieQuiz) |
+| **Danetka. Think Again.** | Logic riddle card game | SwiftUI | [![Repo](https://img.shields.io/badge/Open-Repo-black?logo=github)](https://github.com/animepusya/Yes-No-Game) |
+| **MovieQuiz** | Quiz app (course project) | UIKit | [![Repo](https://img.shields.io/badge/Open-Repo-black?logo=github)](https://github.com/animepusya/MovieQuiz) |
 
 ---
 
