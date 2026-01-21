@@ -3,7 +3,7 @@
   <img src="./itasha.png?v=latest" alt="banner" width="100%"/>
 </p>
 
-<h1 align="center"> Ruslan — iOS Developer (Swift) (｡•̀ᴗ-)✧</h1>
+<h1 align="center">iOS Developer (Swift) (｡•̀ᴗ-)✧</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ruslan-melanin-803589278/" target="_blank">
@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:yourname@email.com">
+  <a href="mailto:rus.melanin@outlook.com">
     <img src="https://img.shields.io/badge/Email-yourname@email.com-6b7280?logo=gmail&logoColor=white" />
   </a>
 </p>
