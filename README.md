@@ -17,15 +17,22 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="mailto:yourname@email.com">
+    <img src="https://img.shields.io/badge/Email-yourname@email.com-6b7280?logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 ---
 
-## ✦ About (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
+## ✦ About (ﾉ◕ヮ◕)ﾉ ✨
 
-|---|---|
-| **Role** | iOS Developer (Swift, UIKit, SwiftUI) |
-| **Focus** | Clean architecture, REST APIs, UI/UX details, smooth user experience |
-| **Location** | Israel (UTC+2) |
-| **Languages** | RU (native), EN (B1→B2) |
+| Field | Details |
+|------|---------|
+| Role | iOS Developer (Swift, UIKit, SwiftUI) |
+| Focus | Clean architecture, REST APIs, UI/UX details, smooth user experience |
+| Location | Israel (UTC+2) |
+| Languages | RU (native), EN (B1→B2) |
 
 ---
 
@@ -45,8 +52,8 @@
 
 | Project | What it is | Tech | Link |
 |---|---|---|---|
-| **Danetka. Think Again.** | Logic riddle card game | SwiftUI | [![Repo](https://img.shields.io/badge/Open-Repo-black?logo=github)](https://github.com/animepusya/Yes-No-Game) |
-| **MovieQuiz** | Quiz app (course project) | UIKit | [![Repo](https://img.shields.io/badge/Open-Repo-black?logo=github)](https://github.com/animepusya/MovieQuiz) |
+| **Danetka. Think Again.** | Logic riddle card game with card flow & JSON content | SwiftUI, MVVM | [![Repo](https://img.shields.io/badge/Open-Repo-black?logo=github)](https://github.com/animepusya/Yes-No-Game) |
+| **MovieQuiz** | Quiz app with API-driven questions and MVP architecture | UIKit, MVP | [![Repo](https://img.shields.io/badge/Open-Repo-black?logo=github)](https://github.com/animepusya/MovieQuiz) |
 
 ---
 
