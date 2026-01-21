@@ -21,7 +21,6 @@
 
 ## ✦ About (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
 
-| | |
 |---|---|
 | **Role** | iOS Developer (Swift, UIKit, SwiftUI) |
 | **Focus** | Clean architecture, REST APIs, UI/UX details, smooth user experience |
