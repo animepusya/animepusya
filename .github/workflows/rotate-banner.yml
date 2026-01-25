@@ -40,7 +40,7 @@ jobs:
           cp "$pick" "banner.png"
 
           # Update cache-busting param in README (v=YYYYMMDD)
-          stamp="$(date -u +%Y%m%d)"
+          stamp="$(date -u +%Y%m%d%H%M)"
           if grep -q 'banner.png?v=' README.md; then
             sed -i "s/banner\.png?v=[^\"']*/banner.png?v=${stamp}/g" README.md
           else
