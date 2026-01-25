@@ -54,12 +54,3 @@
 |---|---|---|---|
 | **Danetka. Think Again.** | Logic riddle card game with card flow & JSON content | SwiftUI, MVVM | [![Repo](https://img.shields.io/badge/Open-Repo-black?logo=github)](https://github.com/animepusya/Yes-No-Game) |
 | **MovieQuiz** | Quiz app with API-driven questions and MVP architecture | UIKit, MVP | [![Repo](https://img.shields.io/badge/Open-Repo-black?logo=github)](https://github.com/animepusya/MovieQuiz) |
-
----
-
-<details>
-<summary>✨ Extra </summary>
-
-<img src="https://github-readme-stats.vercel.app/api?username=animepusya&show_icons=true" />
-
-</details>
