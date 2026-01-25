@@ -3,7 +3,7 @@
   <img src="./banner.png?v=202601251239" width="100%" />
 </p>
 
-<h1 align="center">iOS Developer (Swift) (｡•̀ᴗ-)✧</h1>
+<h1 align="center">iOS Developer (｡•̀ᴗ-)✧</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ruslan-melanin-803589278/" target="_blank">
