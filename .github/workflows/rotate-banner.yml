@@ -1,0 +1,64 @@
+name: Rotate profile banner
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  rotate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Pick random banner and update banner.png + README cache param
+        shell: bash
+        run: |
+          set -e
+
+          if [ ! -d "banners" ]; then
+            echo "Folder 'banners' not found."
+            exit 1
+          fi
+
+          shopt -s nullglob
+          files=(banners/*.png banners/*.jpg banners/*.jpeg)
+          if [ ${#files[@]} -eq 0 ]; then
+            echo "No images found in 'banners/'. Put png/jpg there."
+            exit 1
+          fi
+
+          # Random pick
+          pick="${files[RANDOM % ${#files[@]}]}"
+          echo "Picked: $pick"
+
+          # Replace displayed banner file
+          cp "$pick" "banner.png"
+
+          # Update cache-busting param in README (v=YYYYMMDD)
+          stamp="$(date -u +%Y%m%d)"
+          if grep -q 'banner.png?v=' README.md; then
+            sed -i "s/banner\.png?v=[^\"']*/banner.png?v=${stamp}/g" README.md
+          else
+            echo "README.md doesn't contain banner.png?v=... (nothing to update)."
+          fi
+
+      - name: Commit and push (only if changed)
+        shell: bash
+        run: |
+          set -e
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          if git diff --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git add banner.png README.md
+          git commit -m "chore: rotate profile banner"
+          git push
