@@ -1,8 +1,8 @@
 name: Rotate profile banner
 
-on:
+"on":
   schedule:
-    - cron: "0 * * * *"
+    - cron: "*/5 * * * *"
   workflow_dispatch:
 
 permissions:
