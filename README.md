@@ -1,6 +1,6 @@
 <!-- ====== HEADER ====== -->
 <p align="center">
-  <img src="./banner.png?v=latest" width="100%" />
+  <img src="./banner.png?v=202601251239" width="100%" />
 </p>
 
 <h1 align="center">iOS Developer (Swift) (｡•̀ᴗ-)✧</h1>
