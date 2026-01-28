@@ -29,10 +29,10 @@
 
 | Field | Details |
 |------|---------|
-| Role | iOS Developer (Swift, UIKit, SwiftUI) |
-| Focus | Clean architecture, REST APIs, UI/UX details, smooth user experience |
+| Role | iOS Developer (SwiftUI, UIKit) |
+| Focus | Clean architecture, scalable UI, REST APIs, smooth UX |
 | Location | Israel (UTC+2) |
-| Languages | RU (native), EN (B1→B2) |
+| Languages | RU (native), EN (B1 → B2) |
 
 ---
 
@@ -42,7 +42,10 @@
   <img src="https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white" />
   <img src="https://img.shields.io/badge/UIKit-2396F3" />
   <img src="https://img.shields.io/badge/SwiftUI-007ACC" />
-  <img src="https://img.shields.io/badge/REST-API-22c55e" />
+  <img src="https://img.shields.io/badge/MVVM-4ade80" />
+  <img src="https://img.shields.io/badge/REST%20API-22c55e" />
+  <img src="https://img.shields.io/badge/URLSession-0ea5e9" />
+  <img src="https://img.shields.io/badge/StoreKit-9333ea" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
 </p>
 
@@ -52,5 +55,6 @@
 
 | Project | What it is | Tech | Link |
 |---|---|---|---|
-| **Danetka. Think Again.** | Logic riddle card game with card flow & JSON content | SwiftUI, MVVM | [![Repo](https://img.shields.io/badge/Open-Repo-black?logo=github)](https://github.com/animepusya/Yes-No-Game) |
-| **MovieQuiz** | Quiz app with API-driven questions and MVP architecture | UIKit, MVP | [![Repo](https://img.shields.io/badge/Open-Repo-black?logo=github)](https://github.com/animepusya/MovieQuiz) |
+| **Danetka. Think Again.** | Logic-based riddle card game with remote content loading, offline cache, localization, and in-app purchases | SwiftUI, MVVM, JSON API, StoreKit | [![Repo](https://img.shields.io/badge/Open-Repo-black?logo=github)](https://github.com/animepusya/Yes-No-Game) |
+| **MovieQuiz** | Quiz app with API-driven questions and MVP architecture | UIKit, MVP, REST API | [![Repo](https://img.shields.io/badge/Open-Repo-black?logo=github)](https://github.com/animepusya/MovieQuiz) |
+
