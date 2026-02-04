@@ -57,4 +57,5 @@
 |---|---|---|---|
 | **Danetka. Think Again.** | Logic-based riddle card game with remote content loading, offline cache, localization, and in-app purchases | SwiftUI, MVVM, JSON API, StoreKit | [![Repo](https://img.shields.io/badge/Open-Repo-black?logo=github)](https://github.com/animepusya/Yes-No-Game) |
 | **MovieQuiz** | Quiz app with API-driven questions and MVP architecture | UIKit, MVP, REST API | [![Repo](https://img.shields.io/badge/Open-Repo-black?logo=github)](https://github.com/animepusya/MovieQuiz) |
+| **TaskPlanner** | Productivity app MVP built in ~4.5 hours using AI tools for fast validation | SwiftUI, Core Data | [![Repo](https://img.shields.io/badge/Open-Repo-black?logo=github)](https://github.com/animepusya/TaskPlanner) |
 
