@@ -27,47 +27,44 @@
 
 ## ✦ About
 
-iOS Developer focused on building real-world applications with clean architecture and high-quality user experience.
+iOS developer who likes building real apps, not just demos.
 
-I design and develop features end-to-end — from idea to implementation — including complex systems like recurring tasks, statistics, and local-first data models.
+I enjoy thinking about how things should work, not only how to write them.  
+Most of my time goes into architecture, UX, and making features feel natural.
 
-**Focus areas:**
-- Clean Architecture (scalable, maintainable code)
-- SwiftUI & UIKit UI development
-- Performance and smooth UX
-- Product thinking (not just coding features)
+Right now I'm focused on SwiftUI, clean architecture, and building apps that can реально grow.
 
 ---
 
 ## ✦ What I do
 
-- Build iOS apps from scratch to production-ready state  
-- Design scalable architectures (MVVM + Clean Architecture)  
-- Work with APIs and local-first data models  
-- Create polished UI with strong attention to detail  
-- Use AI tools to accelerate development while keeping full control over code quality  
+- build iOS apps from idea to something usable  
+- think through architecture before coding  
+- care about UI/UX details (spacing, behavior, small things that matter)  
+- work with APIs and local-first logic  
+- use AI as a tool, but always understand what I’m doing  
 
 ---
 
 ## ✦ Main Project
 
-### Task Planner (in active development)
+### Task Planner (wip)
 
-A production-level iOS productivity app focused on planning, recurring tasks, and statistics.
+This is my main project right now.
 
-**Key features:**
-- Advanced recurring tasks (segments, overrides, scoped editing)
-- Statistics with dynamic aggregation (day / week / month / year)
-- Local-first architecture (no backend)
-- Apple Calendar integration
-- Local notifications system
-- WidgetKit support
-- Subscription model (StoreKit)
+It’s a task planning app where I’m trying to do things “properly”:
+not just make it work, but make it scalable and clean.
 
-**Tech:**
-SwiftUI, SwiftData, MVVM, Clean Architecture, WidgetKit, StoreKit, URLSession, GCD
+What’s inside:
+- recurring tasks with proper logic
+- statistics (day / week / month / year)
+- local-first data (no backend)
+- calendar + notifications
+- widgets
+- subscriptions (StoreKit)
 
-> Private repository — code available upon request
+Tech:
+SwiftUI, SwiftData, MVVM, Clean Architecture, WidgetKit, StoreKit
 
 ---
 
@@ -98,11 +95,3 @@ SwiftUI, SwiftData, MVVM, Clean Architecture, WidgetKit, StoreKit, URLSession, G
 | **Danetka. Think Again.** | Logic-based riddle card game with remote content, offline cache, localization, and in-app purchases | SwiftUI, MVVM, JSON API, StoreKit | [![Repo](https://img.shields.io/badge/Open-Repo-black?logo=github)](https://github.com/animepusya/Yes-No-Game) |
 | **MovieQuiz** | Quiz app with API-driven questions and MVP architecture | UIKit, MVP, REST API | [![Repo](https://img.shields.io/badge/Open-Repo-black?logo=github)](https://github.com/animepusya/MovieQuiz) |
 | **TaskPlanner (MVP)** | Early prototype built for fast validation | SwiftUI, Core Data | [![Repo](https://img.shields.io/badge/Open-Repo-black?logo=github)](https://github.com/animepusya/TaskPlanner) |
-
----
-
-## ✦ Contact
-
-- Email: **rus.melanin@outlook.com**
-- Telegram: **@animepusya**
-- LinkedIn: **ruslan-melanin**
