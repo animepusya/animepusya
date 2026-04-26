@@ -27,21 +27,9 @@
 
 ## ✦ About
 
-iOS developer focused on building real apps, not just demos.
+iOS developer building real apps from idea to release.
 
-I like thinking about how features should work in real use: architecture, state management, UX details, and edge cases.
-
-Right now my main focus is SwiftUI, local-first apps, system integrations, and building products that can actually grow.
-
----
-
-## ✦ What I do
-
-- build iOS apps from idea to release  
-- design app structure before adding features  
-- work with local data, calendar logic, widgets, notifications, and subscriptions  
-- care about UI/UX details, animations, and stable behavior  
-- use AI as a tool, but always review and understand the code  
+I care about how features behave in real usage: architecture, state management, UX details and performance.
 
 ---
 
