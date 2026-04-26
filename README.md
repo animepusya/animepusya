@@ -63,7 +63,7 @@ A production-ready task planning app available on the App Store.
 
 <p>
   <a href="https://apps.apple.com/us/app/task-planner-daily-schedule/id6762282029" target="_blank">
-    <img src="https://img.shields.io/badge/App%20Store-Download-0D96F6?logo=appstore&logoColor=white" />
+    <img src="https://img.shields.io/badge/App%20Store-0D96F6?logo=appstore&logoColor=white" />
   </a>
 </p>
 
@@ -90,7 +90,7 @@ Swift, SwiftUI, SwiftData, MVVM, Clean Architecture, Combine, Swift Concurrency,
 
 | Project | What it is | Tech | Link |
 |---|---|---|---|
-| **Task Planner** | Production-ready productivity app with recurring tasks, statistics, widgets, Apple Calendar sync, reminders, photo attachments, and subscriptions | SwiftUI, SwiftData, MVVM, Clean Architecture, WidgetKit, EventKit, StoreKit 2 | [![App Store](https://img.shields.io/badge/App%20Store-Download-0D96F6?logo=appstore&logoColor=white)](https://apps.apple.com/us/app/task-planner-daily-schedule/id6762282029) |
+| **Task Planner** | Production-ready productivity app with recurring tasks, statistics, widgets, Apple Calendar sync, reminders, photo attachments, and subscriptions | SwiftUI, SwiftData, MVVM, Clean Architecture, WidgetKit, EventKit, StoreKit 2 | [![App Store](https://img.shields.io/badge/App%20Store-0D96F6?logo=appstore&logoColor=white)](https://apps.apple.com/us/app/task-planner-daily-schedule/id6762282029) |
 | **Danetka. Think Again.** | Logic-based riddle card game with remote content, offline cache, localization, and in-app purchases | SwiftUI, MVVM, JSON API, StoreKit | [![Repo](https://img.shields.io/badge/Open-Repo-black?logo=github)](https://github.com/animepusya/Yes-No-Game) |
 | **MovieQuiz** | Quiz app with API-driven questions and MVP architecture | UIKit, MVP, REST API | [![Repo](https://img.shields.io/badge/Open-Repo-black?logo=github)](https://github.com/animepusya/MovieQuiz) |
 | **TaskPlanner (MVP)** | Early prototype built for fast validation | SwiftUI, Core Data | [![Repo](https://img.shields.io/badge/Open-Repo-black?logo=github)](https://github.com/animepusya/TaskPlanner) |
