@@ -37,20 +37,20 @@ I care about how features behave in real usage: architecture, state management, 
 
 <p>
   <img src="https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/SwiftUI-007ACC" />
-  <img src="https://img.shields.io/badge/UIKit-2396F3" />
-  <img src="https://img.shields.io/badge/SwiftData-ff9500" />
-  <img src="https://img.shields.io/badge/MVVM-4ade80" />
-  <img src="https://img.shields.io/badge/Clean%20Architecture-9333ea" />
-  <img src="https://img.shields.io/badge/Combine-9333ea" />
-  <img src="https://img.shields.io/badge/Swift%20Concurrency-0ea5e9" />
-  <img src="https://img.shields.io/badge/UserNotifications-000000" />
-  <img src="https://img.shields.io/badge/EventKit-000000" />
-  <img src="https://img.shields.io/badge/WidgetKit-000000" />
-  <img src="https://img.shields.io/badge/StoreKit%202-9333ea" />
-  <img src="https://img.shields.io/badge/PhotosUI-000000" />
-  <img src="https://img.shields.io/badge/Charts-ff9500" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/SwiftUI-FF6B6B" />
+  <img src="https://img.shields.io/badge/UIKit-FF8E53" />
+  <img src="https://img.shields.io/badge/SwiftData-FFD93D" />
+  <img src="https://img.shields.io/badge/MVVM-6BCB77" />
+  <img src="https://img.shields.io/badge/Clean%20Architecture-4D96FF" />
+  <img src="https://img.shields.io/badge/Combine-6C5CE7" />
+  <img src="https://img.shields.io/badge/Swift%20Concurrency-A66CFF" />
+  <img src="https://img.shields.io/badge/UserNotifications-845EC2" />
+  <img src="https://img.shields.io/badge/EventKit-0081CF" />
+  <img src="https://img.shields.io/badge/WidgetKit-00C9A7" />
+  <img src="https://img.shields.io/badge/StoreKit%202-2ECC71" />
+  <img src="https://img.shields.io/badge/PhotosUI-F9A826" />
+  <img src="https://img.shields.io/badge/Charts-FF6F91" />
+  <img src="https://img.shields.io/badge/Git-E74C3C?logo=git&logoColor=white" />
 </p>
 
 ---
